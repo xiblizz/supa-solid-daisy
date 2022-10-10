@@ -14,7 +14,7 @@ Everything you need to build a Solid project, powered by [`solid-start`](https:/
 
 ## Developing
 
-Once you've created a project and installed dependencies with `pnpm install`, and start a development server:
+Once you've created a project and installed dependencies with `pnpm install`, start a development server:
 
 ```bash
 npm run dev
