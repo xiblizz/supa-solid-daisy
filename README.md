@@ -1,6 +1,6 @@
 # SolidStart + DaisyUI
 
-Everything you need to build a Solid project with DaisyUI, powered by [`solid-start`](https://github.com/ryansolid/solid-start/tree/master/packages/solid-start);
+Everything you need to build a Solid project with DaisyUI, powered by [`solid-start`](https://github.com/ryansolid/solid-start/tree/master/packages/solid-start)
 
 ## Developing
 
@@ -12,6 +12,10 @@ npm run dev
 # or start the server and open the app in a new browser tab
 npm run dev -- --open
 ```
+
+## Supabase
+
+still needs to be added.
 
 ## Building
 
