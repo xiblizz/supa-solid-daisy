@@ -1,6 +1,16 @@
-# SolidStart + DaisyUI
+# SolidStart Template with DaisyUI + Motion + Solid-Icons 
 
-Everything you need to build a Solid project with DaisyUI, powered by [`solid-start`](https://github.com/ryansolid/solid-start/tree/master/packages/solid-start)
+Everything you need to build a Solid project, powered by [`solid-start`](https://solid-start-docs.deno.dev/getting-started/what-is-solidstart)
+
+## Modules
+
+### DaisyUI(https://daisyui.com/docs/)
+
+### Framer Motion(https://motion.dev/solid/quick-start)
+
+### Solid-Icons(https://solid-icons.vercel.app/)
+
+### Supabase(https://github.com/wobsoriano/solid-supabase) > still needs to be added.
 
 ## Developing
 
@@ -8,17 +18,12 @@ Once you've created a project and installed dependencies with `pnpm install`, an
 
 ```bash
 npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
 ```
-
-## Supabase
-
-still needs to be added.
 
 ## Building
 
 Solid apps are built with _adapters_, which optimise your project for deployment to different environments.
 
-By default, `npm run build` will generate a Node app that you can run with `npm start`. To use a different adapter, add it to the `devDependencies` in `package.json` and specify in your `vite.config.js`.
+By default, `npm run build` will generate a Node app that you can run with `npm start`.
+
+To use a different adapter, add it to the `devDependencies` in `package.json` and specify in your `vite.config.js`.
