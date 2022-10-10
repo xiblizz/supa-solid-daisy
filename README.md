@@ -4,13 +4,13 @@ Everything you need to build a Solid project, powered by [`solid-start`](https:/
 
 ## Modules
 
-### DaisyUI(https://daisyui.com/docs/)
+### DaisyUI (https://daisyui.com/docs/)
 
-### Framer Motion(https://motion.dev/solid/quick-start)
+### Framer Motion (https://motion.dev/solid/quick-start)
 
-### Solid-Icons(https://solid-icons.vercel.app/)
+### Solid-Icons (https://solid-icons.vercel.app/)
 
-### Supabase(https://github.com/wobsoriano/solid-supabase) > still needs to be added.
+### Supabase (https://github.com/wobsoriano/solid-supabase) > still needs to be added.
 
 ## Developing
 
