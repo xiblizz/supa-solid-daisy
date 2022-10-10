@@ -1,4 +1,4 @@
-# SolidStart Template with DaisyUI + Motion + Solid-Icons 
+# SolidStart Template with DaisyUI
 
 Everything you need to build a Solid project, powered by [`solid-start`](https://solid-start-docs.deno.dev/getting-started/what-is-solidstart)
 
